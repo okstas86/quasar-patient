@@ -74,7 +74,7 @@
       "
     >
       <q-avatar>
-        <img src="https://cdn.quasar.dev/img/avatar3.jpg" />
+        <img src="https://cdn.quasar.dev/img/avatar6.jpg" />
       </q-avatar>
       <div>
         <q-icon

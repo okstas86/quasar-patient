@@ -1,10 +1,10 @@
 <template>
   <q-layout view="lHh Lpr lFf">
     <SideBar />
-    <RightSideBar />
     <q-page-container>
       <router-view />
     </q-page-container>
+    <RightSideBar />
   </q-layout>
 </template>
 
