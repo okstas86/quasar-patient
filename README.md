@@ -1,4 +1,4 @@
-# patient (patient)
+# Patient 
 
 A Quasar Project
 
