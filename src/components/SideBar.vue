@@ -104,12 +104,12 @@ const link = ref("home");
   background: #8ac186;
 }
 .q-item__section--side {
-  padding-right: 0px !important;
+  padding-right: 0px;
 }
 .q-item__section--avatar {
-  color: white !important;
+  color: white;
 }
 .q-item {
-  padding: 16px 0px !important;
+  padding: 16px 0px;
 }
 </style>

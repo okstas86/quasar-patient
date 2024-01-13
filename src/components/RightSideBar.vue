@@ -48,7 +48,6 @@
             name="Me"
             avatar="https://cdn.quasar.dev/img/avatar3.jpg"
             :text="['Great, and you?']"
-            sent
             stamp="4 minutes ago"
           ></q-chat-message>
         </div>
@@ -82,10 +81,7 @@ export default {};
 </script>
 
 <style>
-.q-item__section--main.none {
-  flex: none !important;
-}
-.top {
-  margin-top: -10px;
+.colorBackground {
+  background: #8ac186;
 }
 </style>
